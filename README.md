@@ -1,6 +1,7 @@
+![Web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
 ### Hi there 👋, I'm RG Antu
 #### Web Developer
-![Web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I'm studying computer science. I'm also a front-end web developer. I enjoy writing code.
 
