@@ -1,5 +1,6 @@
 <!-- Banner -->
-![Banner]([https://i.imgur.com/UZsoN8Y.png](https://www.canva.com/design/DAGveOGm0EI/iYEv5pF1q44-y_Ko4Gh1tQ/view?utm_content=DAGveOGm0EI&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hff48d4291f)) 
+[![Banner](assets/banner.png)](https://www.canva.com/design/DAGveOGm0EI/iYEv5pF1q44-y_Ko4Gh1tQ/view?utm_content=DAGveOGm0EI&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hff48d4291f)
+
 
 <h1 align="center">Hi 👋, I'm Redoy Ghosh Antu</h1>
 <h3 align="center">A Passionate Frontend Web Developer from Bangladesh</h3>
