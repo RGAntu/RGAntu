@@ -10,7 +10,7 @@
 ## 👨‍💻 About Me
 
 🎓 I'm a Frontend Developer.  
-🌱 Currently learning **Next.js** and working on a **Coin Crafter -micro task aplication**.  
+🌱 Currently learning **Next.js** and working on a **Coin Crafter - micro task and earning application**.  
 🚀 I love turning ideas into responsive and user-friendly websites.  
 🧠 Always exploring modern web technologies and UI/UX best practices.
 
@@ -77,7 +77,4 @@
 📧 **Email:** theredoyghoshantu@gmail.com  
 📞 **Phone:** +8801633581574
 
----
-
-> ⭐ *“Code is like humor. When you have to explain it, it’s bad.”* – Cory House
 
