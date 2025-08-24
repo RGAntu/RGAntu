@@ -1,5 +1,5 @@
 <!-- Banner -->
-[![Banner](https://github.com/RGAntu/RGAntu/blob/3963afe2d837d8ea20b23ce125f44ff194799692/Banner.png)]
+![Banner](https://github.com/RGAntu/RGAntu/blob/3963afe2d837d8ea20b23ce125f44ff194799692/Banner.png)
 
 
 <h1 align="center">Hi 👋, I'm Redoy Ghosh Antu</h1>
