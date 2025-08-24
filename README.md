@@ -1,5 +1,5 @@
 <!-- Banner -->
-[![Banner](assets/banner.png)](https://www.canva.com/design/DAGveOGm0EI/iYEv5pF1q44-y_Ko4Gh1tQ/view?utm_content=DAGveOGm0EI&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hff48d4291f)
+[![Banner](assets/banner.png)](https://github.com/RGAntu/RGAntu/blob/513139ccfdc4bc2dea19f37245dfabd1cf96dede/Banner.png)
 
 
 <h1 align="center">Hi 👋, I'm Redoy Ghosh Antu</h1>
