@@ -66,7 +66,46 @@
 
 ---
 
-## 📌 Pinned Projects
+## 📌 Featured Projects
+
+Here are some of my best projects that showcase my frontend and MERN stack skills:
+
+### 🔹 [Coin Crafter client side](https://github.com/RGAntu/coin-crafter-client-side)  
+### 🔹 [Coin Crafter server side](https://github.com/RGAntu/coin-crafter-server-side)
+💰 A **Micro Tasking & Earning Platform** where users can take roles as **Worker, Buyer, or Admin**.  
+- 🌐 [Live Demo](https://coin-crafter-e54be.web.app/)
+- 🛠️ **Tech Stack:** React, TailwindCSS, DaisyUI, Firebase, Express.js, MongoDB, Stripe  
+- 🔑 **Features:**  
+  - Workers complete tasks and earn coins  
+  - Buyers create & pay for tasks  
+  - Admin manages withdrawals, users, and tasks  
+  - Stripe payment gateway integration  
+
+---
+
+### 🔹 [Historical Artifacts Tracker client side](https://github.com/RGAntu/historical-artifacts-tracker-client-side)  
+### 🔹 [Historical Artifacts Tracker server side](https://github.com/RGAntu/historical-artifacts-tracker-server-side)
+🏺 A platform to **track, like, and explore historical artifacts**.  
+- 🌐 [Live Demo](https://historical-artifacts-tra-2e317.web.app/)
+- 🛠️ **Tech Stack:** React, TailwindCSS, Firebase Auth, Express.js, MongoDB  
+- 🔑 **Features:**  
+  - Featured artifacts by popularity  
+  - Secure JWT authentication with Firebase  
+  - Like system with real-time database updates  
+  - Protected routes for artifact details  
+
+---
+
+### 🔹 [Roommatey client side](https://github.com/RGAntu/room-matey-client-side)  
+### 🔹 [Roommatey server side](https://github.com/RGAntu/room-matey-server-side)  
+🏠 A **Find Roommate Platform** to connect people looking for shared accommodation.  
+- 🌐 [Live Demo](https://room-matey.web.app/) 
+- 🛠️ **Tech Stack:** React, TailwindCSS, Firebase Auth, Express.js, MongoDB  
+- 🔑 **Features:**  
+  - CRUD operations for roommate listings  
+  - Secure private routes with JWT  
+  - SweetAlert-based notifications  
+  - User-specific “My Listings” dashboard  
 
 
 ---
