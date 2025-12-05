@@ -10,7 +10,7 @@
 ## 👨‍💻 About Me
 
 🎓 I'm a Frontend Developer.  
-🌱 Currently learning **Next.js** and working on a **Coin Crafter - micro task and earning application**.  
+🌱 Currently learning **Next.js**.  
 🚀 I love turning ideas into responsive and user-friendly websites.  
 🧠 Always exploring modern web technologies and UI/UX best practices.
 
@@ -19,7 +19,7 @@
 ## 🚀 Current Activities
 
 - 🔭 Working on a **Micro-Tasking Platform (CoinCrafter)**
-- 🌱 Exploring **Next.js**, **React Query**, and **TypeScript**
+- 🌱 Exploring **Next.js**, and **TypeScript**
 - 📚 Learning about **JWT Authentication & Stripe Payments**
 - 💬 Ask me about anything related to **ReactJS** or **Frontend Development**
 
@@ -113,7 +113,7 @@ Here are some of my best projects that showcase my frontend and MERN stack skill
 ## 📫 Contact Me
 
 📍 **Location:** Dhaka, Bangladesh  
-📧 **Email:** theredoyghoshantu@gmail.com  
+📧 **Email:** redoyghoshantu1@gmail.com  
 📞 **Phone:** +8801633581574
 
 
