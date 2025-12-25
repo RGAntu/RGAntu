@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Redoy Ghosh Antu</h1>
-<h3 align="center">A Passionate Frontend Web Developer from Bangladesh</h3>
+<h3 align="center">A Passionate Frontend Developer</h3>
 
 ---
 
