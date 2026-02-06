@@ -2,8 +2,8 @@
 <!--![Banner](https://github.com/RGAntu/RGAntu/blob/3963afe2d837d8ea20b23ce125f44ff194799692/Banner.png) -->
 
 
-<h1 align="center">Hi 👋, I'm Redoy Ghosh Antu</h1>
-<h3 align="center">A Passionate Frontend Developer</h3>
+<h1 align="left">Hi, I'm Redoy Ghosh Antu</h1>
+<h3 align="left">A Passionate Frontend Developer</h3>
 
 ---
 
@@ -13,15 +13,6 @@
 🌱 Currently learning **Next.js**.  
 🚀 I love turning ideas into responsive and user-friendly websites.  
 🧠 Always exploring modern web technologies and UI/UX best practices.
-
----
-
-## 🚀 Current Activities
-
-- 🔭 Working on a **Micro-Tasking Platform (CoinCrafter)**
-- 🌱 Exploring **Next.js**, and **TypeScript**
-- 📚 Learning about **JWT Authentication & Stripe Payments**
-- 💬 Ask me about anything related to **ReactJS** or **Frontend Development**
 
 ---
 
@@ -105,7 +96,7 @@ Here are some of my best projects that showcase my frontend and MERN stack skill
   - CRUD operations for roommate listings  
   - Secure private routes with JWT  
   - SweetAlert-based notifications  
-  - User-specific “My Listings” dashboard  
+  - User-specific “My Listings” dashboard
 
 
 ---
