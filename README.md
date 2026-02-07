@@ -3,7 +3,6 @@
 
 
 <h1 align="left">Hi, I'm Redoy Ghosh Antu</h1>
----
 
 ## 👨‍💻 About Me
 
