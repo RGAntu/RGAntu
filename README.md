@@ -71,33 +71,6 @@ Here are some of my best projects that showcase my frontend and MERN stack skill
 
 ---
 
-### 🔹 [Historical Artifacts Tracker client side](https://github.com/RGAntu/historical-artifacts-tracker-client-side)  
-### 🔹 [Historical Artifacts Tracker server side](https://github.com/RGAntu/historical-artifacts-tracker-server-side)
-🏺 A platform to **track, like, and explore historical artifacts**.  
-- 🌐 [Live Demo](https://historical-artifacts-tra-2e317.web.app/)
-- 🛠️ **Tech Stack:** React, TailwindCSS, Firebase Auth, Express.js, MongoDB  
-- 🔑 **Features:**  
-  - Featured artifacts by popularity  
-  - Secure JWT authentication with Firebase  
-  - Like system with real-time database updates  
-  - Protected routes for artifact details  
-
----
-
-### 🔹 [Roommatey client side](https://github.com/RGAntu/room-matey-client-side)  
-### 🔹 [Roommatey server side](https://github.com/RGAntu/room-matey-server-side)  
-🏠 A **Find Roommate Platform** to connect people looking for shared accommodation.  
-- 🌐 [Live Demo](https://room-matey.web.app/) 
-- 🛠️ **Tech Stack:** React, TailwindCSS, Firebase Auth, Express.js, MongoDB  
-- 🔑 **Features:**  
-  - CRUD operations for roommate listings  
-  - Secure private routes with JWT  
-  - SweetAlert-based notifications  
-  - User-specific “My Listings” dashboard
-
-
----
-
 ## 📫 Contact Me
 
 📍 **Location:** Dhaka, Bangladesh  
